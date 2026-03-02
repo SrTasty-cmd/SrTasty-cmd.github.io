@@ -36,7 +36,7 @@ layout: default
 
 <!-- COLUMNA IZQUIERDA (70%) -->
 <div class="main-column">
-
+hola
 ## 🎓 Formación
 
 ### Ciberseguridad en Entornos de las Tecnologías de la Información  
