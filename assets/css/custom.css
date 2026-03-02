@@ -26,3 +26,37 @@
 .contact a:hover {
   text-decoration: underline;
 }
+
+/* HEADER HORIZONTAL */
+.horizontal-header {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.header-left {
+  flex: 0 0 160px;
+}
+
+.header-right {
+  text-align: left;
+}
+
+/* GRID PRINCIPAL */
+.content-grid {
+  display: flex;
+  gap: 40px;
+}
+
+/* COLUMNA IZQUIERDA */
+.main-column {
+  width: 70%;
+}
+
+/* COLUMNA DERECHA */
+.side-column {
+  width: 30%;
+  background-color: #0a1f44;
+  padding: 20px;
+  border-radius: 10px;
+}
