@@ -20,7 +20,6 @@ layout: default
 
     <p class="contact">
       📧 <a href="mailto:alberto5acs@gmail.com">alberto5acs@gmail.com</a><br>
-      📞 696 790 477<br>
       🔗 <a href="https://www.linkedin.com/in/alberto-gonz%C3%A1lez-ortega-70388427a/" target="_blank">
       LinkedIn
       </a>
