@@ -32,10 +32,10 @@ layout: default
 ---
 
 <!-- CUERPO EN DOS COLUMNAS -->
-<div class="content-grid">
+<div class="content-grid" markdown="1">
 
 <!-- COLUMNA IZQUIERDA (70%) -->
-<div class="main-column">
+<div class="main-column" markdown="1">
 
 ## 🎓 Formación
 
@@ -94,7 +94,7 @@ layout: default
 </div>
 
 <!-- COLUMNA DERECHA (30%) -->
-<div class="side-column">
+<div class="side-column" markdown="1">
 
 ## 🧠 Sobre mí
 
