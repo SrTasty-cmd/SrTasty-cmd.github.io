@@ -4,7 +4,7 @@ layout: default
 
 <div class="header-card">
 
-<img src="assets/img/profile.jpg" alt="Foto de Alberto González Ortega" class="profile-pic"/>
+<img src="assets/img/profile.png" alt="Foto de Alberto González Ortega" class="profile-pic"/>
 
 <h1>Alberto González Ortega</h1>
 
