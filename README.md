@@ -1,1 +1,0 @@
-# SrTasty-cmd.github.io
