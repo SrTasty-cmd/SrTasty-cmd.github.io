@@ -122,3 +122,5 @@ Prácticas de empresa del ciclo ASIR:
 - Blue Team / SOC  
 - Programación en **Python** (nivel medio)  
 - Automatización y scripting
+
+<link rel="stylesheet" href="assets/css/custom.css">
