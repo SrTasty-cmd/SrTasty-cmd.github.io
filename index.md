@@ -41,7 +41,16 @@ layout: default
 
 ### Ciberseguridad en Entornos de las Tecnologías de la Información  
 **IES El Rincón – Las Palmas de Gran Canaria**  
-📅 oct 2023 – presente
+📅 oct 2023 – May 2024
+⭐ Nota final: **9,33**
+
+**Competencias:**
+- Análisis Forense Informático  
+- Bastionado de redes y sistemas  
+- Hacking Ético
+- Incidentes de ciberseguridad  
+- Normativa de ciberseguridad  
+- Puesta en producción segura
 
 ---
 
@@ -87,9 +96,24 @@ layout: default
 - Administración de sistemas con **Microsoft 365**
 - Gestión de **máquinas virtuales Linux**
 - Automatización con **PowerShell**
-- Monitorización y gestión de incidentes
+- Monitorización de seguridad con SIEM Wazuh
 - Seguridad de sistemas
-- Implantación técnica del **ENS**
+- Implantación técnica del **ENS MEDIO**
+- Resolución de incidencias N1
+
+### Técnico Administrador de Sistemas  
+**Ansite IT – Las Palmas de Gran Canaria**  
+📅 Nov 2025 – mar 2026
+
+- Administración de sistemas con **Microsoft 365**
+- Gestión de **máquinas virtuales Linux y Windows**
+- Automatización con **PowerShell y Python**
+- Monitorización de seguridad con SIEM Wazuh
+- Implantación y gestion IDS/IPS Suricata, Antivirus ClamAV, Fail2ban, entre otros
+- Seguridad de sistemas
+- Resolución de incidencias N1/N2
+- Implantación técnica del **ENS ALTO Y BASICO**
+- Implantación de herramientas con Docker
 
 </div>
 
@@ -105,12 +129,15 @@ Especial interés en:
 - Gestión de incidentes
 - Hardening
 - Automatización
+- Documentación y administración de sistemas
+- Pentesting
 
 ---
 
 ## 📜 Certificaciones
 
-- Ciberseguridad – IES El Rincón *(en curso)*
+- Ciberseguridad – IES El Rincón
+- Owasp ZAP Proxy **Básico y Avanzado** - The Hacker Way
 
 ---
 
@@ -121,21 +148,25 @@ Especial interés en:
 - PowerShell
 - Redes y servicios
 - Alta disponibilidad
+- Gestion y resolución de incidencias
+- Calidad de servicios
 
 ---
 
 ## 🌍 Idiomas
 
-- Inglés
+- Inglés **B1**
 
 ---
 
 ## 💡 Intereses
 
-- Ciberseguridad defensiva
-- SOC / Blue Team
+- Ciberseguridad defensiva y ofensiva
+- SOC / SIEM / IDS / IPS / Blue Team / Red Team
 - Python (nivel medio)
 - Automatización
+- Pentesting
+- Certificación
 
 </div>
 
