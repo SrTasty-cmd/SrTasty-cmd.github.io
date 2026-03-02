@@ -2,37 +2,40 @@
 layout: default
 ---
 
-<div class="header-card">
+<link rel="stylesheet" href="assets/css/custom.css">
 
-<img src="assets/img/profile.png" alt="Foto de Alberto González Ortega" class="profile-pic"/>
+<!-- HEADER -->
+<div class="header-card horizontal-header">
 
-<h1>Alberto González Ortega</h1>
+  <div class="header-left">
+    <img src="assets/img/profile.png" alt="Foto de Alberto González Ortega" class="profile-pic"/>
+  </div>
 
-<p class="subtitle">
-Blue Team · Administración de Sistemas · Ciberseguridad
-</p>
+  <div class="header-right">
+    <h1>Alberto González Ortega</h1>
 
-<p class="contact">
-📧 <a href="mailto:alberto5acs@gmail.com">alberto5acs@gmail.com</a> |
-📞 696 790 477 |
-🔗 <a href="https://www.linkedin.com/in/alberto-gonz%C3%A1lez-ortega-70388427a/" target="_blank">LinkedIn</a>
-</p>
+    <p class="subtitle">
+      Blue Team · Administración de Sistemas · Ciberseguridad
+    </p>
+
+    <p class="contact">
+      📧 <a href="mailto:alberto5acs@gmail.com">alberto5acs@gmail.com</a><br>
+      📞 696 790 477<br>
+      🔗 <a href="https://www.linkedin.com/in/alberto-gonz%C3%A1lez-ortega-70388427a/" target="_blank">
+      LinkedIn
+      </a>
+    </p>
+  </div>
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+<!-- CUERPO EN DOS COLUMNAS -->
+<div class="content-grid">
 
-Estudiante de **Ciberseguridad** con formación sólida en **Administración de Sistemas Informáticos en Red**, orientado a **Blue Team** y a la **seguridad defensiva**.
-
-Alta motivación por aprender, capacidad de trabajo en equipo, comunicación efectiva y especial interés en:
-- Monitorización de sistemas
-- Gestión de incidentes
-- Hardening y seguridad operativa
-- Automatización y scripting
-
----
+<!-- COLUMNA IZQUIERDA (70%) -->
+<div class="main-column">
 
 ## 🎓 Formación
 
@@ -47,11 +50,11 @@ Alta motivación por aprender, capacidad de trabajo en equipo, comunicación efe
 📅 sep 2021 – jun 2023  
 ⭐ Nota final: **8,57**
 
-**Competencias adquiridas:**
+**Competencias:**
 - Seguridad y alta disponibilidad  
 - Administración de sistemas operativos  
 - Servicios de red e Internet  
-- Sistemas gestores de bases de datos  
+- Bases de datos  
 - Implantación de aplicaciones web  
 - Lenguajes de marcas  
 - Fundamentos de hardware  
@@ -67,11 +70,10 @@ Alta motivación por aprender, capacidad de trabajo en equipo, comunicación efe
 
 ## 💼 Experiencia
 
-### Técnico Administrador de Sistemas Informáticos en Red (Prácticas)
+### Técnico Administrador de Sistemas Informáticos en Red (Prácticas)  
 **Ábaco System – Ingenio**  
 📅 mar 2023 – jun 2023
 
-Prácticas de empresa del ciclo ASIR:
 - Administración de sistemas
 - Soporte técnico
 - Gestión de incidencias
@@ -82,31 +84,43 @@ Prácticas de empresa del ciclo ASIR:
 **CTSI – Las Palmas de Gran Canaria**  
 📅 sept 2024 – may 2025
 
-- Administración de sistemas basados en **Microsoft 365**
+- Administración de sistemas con **Microsoft 365**
 - Gestión de **máquinas virtuales Linux**
-- Automatización mediante **scripts PowerShell**
+- Automatización con **PowerShell**
 - Monitorización y gestión de incidentes
 - Seguridad de sistemas
-- Implantación técnica del **Esquema Nacional de Seguridad (ENS)**
+- Implantación técnica del **ENS**
+
+</div>
+
+<!-- COLUMNA DERECHA (30%) -->
+<div class="side-column">
+
+## 🧠 Sobre mí
+
+Estudiante de **Ciberseguridad** con formación en **Administración de Sistemas Informáticos en Red**, orientado a **Blue Team** y defensa de infraestructuras.
+
+Especial interés en:
+- Monitorización y detección
+- Gestión de incidentes
+- Hardening
+- Automatización
 
 ---
 
-## 🛡️ Competencias Técnicas
+## 📜 Certificaciones
 
-- Seguridad y alta disponibilidad  
-- Administración de sistemas operativos  
-- Redes y servicios de Internet  
-- Bases de datos  
-- Automatización con PowerShell  
-- Linux / Windows  
+- Ciberseguridad – IES El Rincón *(en curso)*
+
+---
+
+## 🛡️ Competencias
+
 - Seguridad defensiva (Blue Team)
-
----
-
-## 📜 Certificados
-
-*(En proceso / añadir cuando los tengas)*  
-- Ciberseguridad – IES El Rincón  
+- Linux / Windows
+- PowerShell
+- Redes y servicios
+- Alta disponibilidad
 
 ---
 
@@ -118,9 +132,11 @@ Prácticas de empresa del ciclo ASIR:
 
 ## 💡 Intereses
 
-- Ciberseguridad y defensa de sistemas  
-- Blue Team / SOC  
-- Programación en **Python** (nivel medio)  
-- Automatización y scripting
+- Ciberseguridad defensiva
+- SOC / Blue Team
+- Python (nivel medio)
+- Automatización
 
-<link rel="stylesheet" href="assets/css/custom.css">
+</div>
+
+</div>
