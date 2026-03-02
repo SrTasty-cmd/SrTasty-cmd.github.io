@@ -170,3 +170,6 @@ Especial interés en:
 </div>
 
 </div>
+
+
+### Este portfolio aplica principios básicos de OPSEC y minimización de datos personales.
