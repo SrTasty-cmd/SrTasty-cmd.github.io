@@ -1,0 +1,28 @@
+.header-card {
+  background-color: #0a1f44;
+  padding: 30px;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 40px;
+}
+
+.profile-pic {
+  width: 160px;
+  border-radius: 50%;
+  border: 3px solid #00ff9c;
+  margin-bottom: 15px;
+}
+
+.subtitle {
+  color: #00ff9c;
+  font-size: 1.1em;
+}
+
+.contact a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
